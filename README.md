@@ -42,9 +42,6 @@ x86_64 and CPU only, no ARM, no Alpine. It's all in the README.
 [![Release](https://img.shields.io/github/v/release/AS-Offical/HaramMute-Linux?style=flat-square&logo=github&logoColor=white&color=7c3aed)](https://github.com/AS-Offical/HaramMute-Linux/releases/latest)
 ![Stars](https://img.shields.io/github/stars/AS-Offical/HaramMute-Linux?style=flat-square&logo=github&color=black)
 
-## the output
+## after dark
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AS-Offical/AS-Offical/output/snake-dark.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/AS-Offical/AS-Offical/output/snake.svg" width="100%">
-</picture>
+<img src="assets/bats.svg" alt="bats flying across a night sky" width="100%" />
