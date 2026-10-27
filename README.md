@@ -10,6 +10,7 @@
 
 Python. Linux. Packaging. Scripts that save you an hour.
 Nobody had a Linux build, so I made one and put it on six package formats.
+I use Arch, btw.
 
 ## the stack
 
