@@ -6,17 +6,17 @@
 
 &nbsp;
 
-## the pitch
+## The Pitch
 
 Python. Linux. Packaging. Scripts that save you an hour.
 Nobody had a Linux build, so I made one and put it on six package formats.
 I use Arch, btw.
 
-## the stack
+## The Stack
 
 <img src="https://skillicons.dev/icons?i=py,linux,bash,nix,git,githubactions&theme=dark" />
 
-## the main move: [HaramMute-Linux](https://github.com/AS-Offical/HaramMute-Linux)
+## The Main Move rn: [HaramMute-Linux](https://github.com/AS-Offical/HaramMute-Linux)
 
 Linux build of the local server behind the HaramMute browser extension. Unofficial, no ties to the Windows devs.
 
@@ -42,6 +42,6 @@ x86_64 and CPU only, no ARM, no Alpine. It's all in the README.
 [![Release](https://img.shields.io/github/v/release/AS-Offical/HaramMute-Linux?style=flat-square&logo=github&logoColor=white&color=7c3aed)](https://github.com/AS-Offical/HaramMute-Linux/releases/latest)
 ![Stars](https://img.shields.io/github/stars/AS-Offical/HaramMute-Linux?style=flat-square&logo=github&color=black)
 
-## after dark
+## After Dark
 
 <img src="assets/bats.svg" alt="bats flying across a night sky" width="100%" />
